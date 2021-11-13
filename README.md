@@ -12,8 +12,7 @@
    ## <h3>Languages and features that I'm currently learning: </h3>
 
   <div style="display: inline_block"><br>
-    <img align="center" alt="Vini-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Vini-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    
    <img align="center" alt="Vini-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
    <img align="center" alt="Vini-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" alt="Vini-c#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -22,7 +21,7 @@
    <img align="center" alt="Vini-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
    <img align="center" alt="Vini-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    
- <img align="right" alt="Vini-gif" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
+ <img align="right" alt="Vini-gif" src="https://64.media.tumblr.com/4d601d07e435f339353547c2e96f15bc/02e0e6c848412b8d-4c/s400x600/6ce17b172c00e5402db15d759d415af317835331.gif">
     
 
   
