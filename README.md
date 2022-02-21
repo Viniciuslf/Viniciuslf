@@ -64,13 +64,7 @@
 <h3>
   
  📊 Statistical Data : </h3>
-<p><img align="center"
-   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Viniciuslf&theme=algolia" alt="Viniciuslf" /></p>
 
-<br>
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Viniciuslf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Viniciuslf&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 
 <br>
 
