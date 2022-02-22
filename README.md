@@ -24,7 +24,7 @@
 
 <h3 align="left"> 🤝🏻 Connect with me:</h3>
 <p align="left">
-   <a href="https://stackoverflow.com/users/18254374/vin%c3%adcius" target="_blank"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a> 
+   <a href="https://stackoverflow.com/users/18254374/vin%c3%adcius" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a> 
   
   <a href="https://www.linkedin.com/in/vin%C3%ADciuslopesferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
