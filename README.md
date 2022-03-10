@@ -10,8 +10,7 @@
 
   - 🎓 &nbsp; I’m a System Analysis student at   <a href = "https://www.fiap.com.br/">Faculdade de Informática e Administração Paulista - FIAP <a> </h3>
 
- - 💻 &nbsp; Exploring new technologies and developing software solutions.
-
+ - 💻 &nbsp; Always learning new things
 
   </p>
 
