@@ -48,11 +48,11 @@
    <img align="center" alt="Vini-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    <img align = "center"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a>
+      alt="mysql" width="30" height="40" /> </a> </a>
       <img align="center" alt="Vini-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
        <img align = "center"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"
-      alt="spring" width="40" height="40" /> </a> </a>
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
+      alt="spring" width="30" height="40" /> </a> </a>
         
         
  <br>
