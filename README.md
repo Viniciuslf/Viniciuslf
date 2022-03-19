@@ -4,8 +4,7 @@
 
 <br>
 
-<p align="right"> <h3>- Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=Viniciuslfw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Viniciuslf"/> 
+<p /> 
     <h4>   About me </h4>
 
   - 🎓 &nbsp; I’m a System Analysis student at   <a href = "https://www.fiap.com.br/">Faculdade de Informática e Administração Paulista - FIAP <a> </h3>
