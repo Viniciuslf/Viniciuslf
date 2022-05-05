@@ -3,7 +3,7 @@
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Cyber+Security;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Viniciuslf" /></p>
+
 
 <br>
 
@@ -11,6 +11,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Viniciuslf&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Viniciuslf" height="192px"/></p>
 
 ##
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Viniciuslf" /></p>
 
 <h3 align="left"> 🤝🏻 Connect with me:</h3>
 <p align="left">
