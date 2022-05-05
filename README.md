@@ -6,7 +6,7 @@
 
 
 <br>
- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Viniciuslf" /></p>
+
 
 <h3 align="left"> 📊 Statistical Data:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Viniciuslf&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Viniciuslf" height="192px"/></p>
