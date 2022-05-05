@@ -1,24 +1,16 @@
- <h1 align="center">Hi , I'm Vinícius Lopes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ <h1 align="center">Hi , I'm Vinícius<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Cyber+Security;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
-<br>
-
-<p /> 
-    <h4>   About me </h4>
-
-  - 🎓 &nbsp; I’m a System Analysis student at   <a href = "https://www.fiap.com.br/">Faculdade de Informática e Administração Paulista - FIAP <a> </h3>
-
- - 💻 &nbsp; Always learning new things
-
-  </p>
-
-<br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Viniciuslf" /></p>
 
-
 <br>
+
+<h3 align="left"> 📊 Statistical Data:</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Viniciuslf&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Viniciuslf" height="192px"/></p>
+
+##
 
 <h3 align="left"> 🤝🏻 Connect with me:</h3>
 <p align="left">
@@ -28,46 +20,5 @@
   
   <a href = "mailto:viniciuslf90@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
-
-<br>
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"> 
-  <img align="center" alt="Vini-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-   <img align = "center"
-      <img align="center" alt="Vini-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-       <img align = "center"
-   <img align="center" alt="Vini-c#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Vini-ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-    <img align="center" alt="Vini-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-   <img align="center" alt="Vini-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-   <img align = "center"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="30" height="40" /> </a> </a>
-      
-       
-        
-        
- <br>
-
-##
-
-<h3>
-  
- 📊 Statistical Data : </h3>
-
-
-<br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Viniciuslf&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Viniciuslf" height="192px"/></p>
-
-<br>
-<h3>🏆 Trophies :</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=Viniciuslf" alt="Viniciuslf" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 
 ------------------------------------------------------------------------------------------------------------------------------------------
