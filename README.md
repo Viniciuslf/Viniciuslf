@@ -7,7 +7,7 @@
 
 <h3 align="left">  Statistical Data:</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Viniciuslf&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Viniciuslf" height="192px"/>
-<img height="192px" src="https://github-readme-stats.vercel.app/api?username=viniciuslf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=viniciuslf&show_icons=true&theme=algolia&include_all_commits=true&count_private=no" alt="Viniciuslf" height="192px"/>
 <div align="right">
 <img align=""right" src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" width="300">
 <p align="right">
