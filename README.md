@@ -10,15 +10,9 @@
 
 
 <h3 align="left">  Statistical Data:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Viniciuslf&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Viniciuslf" height="192px"/></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Viniciuslf&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Viniciuslf" height="192px"/>
+<div align="right">
+<img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" width="300"></h1>
+<p align="right">
 
-##
 
-<h3 align="left">  Connect with me:</h3>
-<p align="left">
-   <a href="https://stackoverflow.com/users/18254374/vin%c3%adcius" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a> 
-
-  <a href="https://www.linkedin.com/in/vin%C3%ADciuslopesferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-  <a href = "mailto:viniciuslf90@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
