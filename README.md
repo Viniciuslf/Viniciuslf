@@ -13,7 +13,10 @@
 
 
 <h3 align="left"> 📊 Statistical Data:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Viniciuslf&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Viniciuslf" height="192px"/></p>
+
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Viniciuslf&show_icons=true&theme=algolia)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Viniciuslf&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 ##
 
