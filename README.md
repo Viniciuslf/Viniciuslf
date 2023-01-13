@@ -14,8 +14,9 @@
 
 <h3 align="left"> 📊 Statistical Data:</h3>
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Viniciuslf&layout=compact&theme=algolia)](https://github.com/Viniciuslf/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Viniciuslf&show_icons=true&theme=algolia)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Viniciuslf&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 ##
