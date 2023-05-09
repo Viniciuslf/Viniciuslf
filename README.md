@@ -15,19 +15,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" width="40" alt="ubuntu logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40" alt="debian logo"  />
 </div>
-
-
-<!-- <h3 align="left"> DevSecOps 🚀 (🚧 Em construção... 🚧)<br><br></h3> -->
-<img align="right" height="300" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif"  />
-<p align="center">
-	<br>
-	<br>
-	<br>
+<br>
 	 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer;Cyber+Security;Always%20learning%20new%20things&center=true&width=500&height=50"></a> <br>
 	<br><br><br>
 </p>
 
 <div align="center">
+
+<!-- <h3 align="left"> DevSecOps 🚀 (🚧 Em construção... 🚧)<br><br></h3> -->
+<img align="right" height="300" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif"  />
+<p align="right">
+	<br>
+	<br>
+	<br>
+	
 
 
 <br clear="both">
