@@ -19,7 +19,7 @@
 
 <!-- <h3 align="left"> DevSecOps 🚀 (🚧 Em construção... 🚧)<br><br></h3> -->
 <img align="right" height="300" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif"  />
-<p align="left">
+<p align="center">
 	<br>
 	<br>
 	<br>
