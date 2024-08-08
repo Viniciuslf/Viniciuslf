@@ -1,50 +1,40 @@
-<h1 align="center">Hi , I'm Vinícius<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40" alt="debian logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="40" alt="spring logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="40" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="40" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="40" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" width="40" alt="kubernetes logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="40" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" width="40" alt="ubuntu logo"  />
-
-</div>
-
-</p>
-
-<br>
-	
-<div align="center">
-
-<!-- <h3 align="left"> DevSecOps 🚀 (🚧 Em construção... 🚧)<br><br></h3> -->
-<img align="center" height="300" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif"  />
-<p align="center">
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&username=viniciuslf" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&username=viniciuslf" height="150" alt="languages graph"  />
-</div>
 
 
-<br clear="both">
-<div align="center">
- 
-  <a href="viniciuslf90@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/viníciuslopesferreira" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  
-  </a>
-</div>
 
-<br clear="both">
+```c
+#include <stdio.h>
 
-Thanks for your visit! 🚀
+void introduceVinicius() {
+    printf("ViniciusLF\n");
+    printf("May the force be with you!\n");
+    printf("Programmer | Java | SpringBoot | C | Shell |\n");
+    printf("another line | Web | Cyber Security | Quality Assurance | Engineering |\n");
+}
 
+int main() {
+    introduceVinicius();
+    return 0;
+}
+
+
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+
+
+        _nnnn_                      
+        dGGGGMMb     ,"""""""""""""".
+       @p~qp~~qMb    | Linux Rules! |
+       M|@||@) M|   _;..............'
+       @,----.JM| -'
+      JS^\__/  qKL
+     dZP        qKRb
+    dZP          qKKb
+    fZP            SMMb
+    HZM            MMMM
+    FqM            MMMM
+    __| ".        |\dS"qML
+    |    `.       | `' \Zq
+    _)      \.___.,|     .'
+    \____   )MMMMMM|   .'
+     `-'       `--' hjm
