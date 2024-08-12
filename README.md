@@ -4,8 +4,8 @@
 void introduceVinicius() {
     printf("ViniciusLF\n");
     printf("May the force be with you!\n");
-    printf("Programmer | Java | SpringBoot | C | Shell |\n");
-    printf("another line | Web | Cyber Security | Quality Assurance | Engineering |\n");
+    printf("DevOps | Java | Python | C | Shell |\n");
+    printf("another line | Web | Cyber Security | Quality Assurance | DevSecOps Engineering |\n");
 }
 
 int main() {
@@ -31,3 +31,6 @@ int main() {
     _)      \.___.,|     .'
     \____   )MMMMMM|   .'
      `-'       `--' hjm
+```
+<img align="right" height="300" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif"  />
+<p align="left">
