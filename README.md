@@ -4,7 +4,7 @@
 void introduceVinicius() {
     printf("ViniciusLF\n");
     printf("May the force be with you!\n");
-    printf("DevOps | Java | Python | JavaScript | Shell |\n");
+    printf("DevOps | Java | Python | JavaScript | Shell | Pentest | AppSec\n");
     printf("another line | Web | Cyber Security | Quality Assurance | DevSecOps Engineering |\n");
 }
 
